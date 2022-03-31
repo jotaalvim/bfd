@@ -1,0 +1,8 @@
+
+
+[x] Criar repositorio
+[ ] Escolher linguagem (java ?)
+[ ] Modulo que controla websites
+[ ] Saber que cadeiras abrir (default todas?, como argumento)
+[ ] Onde estão os ficheiros (pasta conteúdo, e as outras pastas?)
+[ ] Descaregar e guardar (path como argumento ?)
